@@ -2857,15 +2857,15 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
 }
  
 #dj-button {
-    -webkit-animation: rainbow 1s infinite!important;
-    -ms-animation: rainbow 1s infinite!important;
-    -o-animation: rainbow 1s infinite!important;
-    animation: rainbow 1s infinite!important;
+    -webkit-animation: rainbow 15s infinite!important;
+    -ms-animation: rainbow 15s infinite!important;
+    -o-animation: rainbow 15s infinite!important;
+    animation: rainbow 15s infinite!important;
 }
  
 #dj-button {
-    background: -webkit-animation: rainbow 1s infinite!important;
-    background: -ms-animation: rainbow 1s infinite!important;
-    background: -o-animation: rainbow 1s infinite!important;
-    background: animation: rainbow 1s infinite!important;
+    background: -webkit-animation: rainbow 15s infinite!important;
+    background: -ms-animation: rainbow 15s infinite!important;
+    background: -o-animation: rainbow 15s infinite!important;
+    background: animation: rainbow 15s infinite!important;
 }
