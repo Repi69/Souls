@@ -884,23 +884,11 @@ position: relative;
   border-radius: 50px;
 }
 
-#footer-user .buttons div.inventory.button {
-  box-shadow: 0px -16px 23px -18px rgb(255, 0, 0);
-  top: 0px;
-  left: 1px;
-}
-
 /* footer-user .buttons div.badge.button:hover */
 
 #footer-user .buttons div.badge.button:hover { 
   background: linear-gradient(to bottom,#B21010 0,rgba(178, 0, 0, 0.33) 56%,#000 73%,#39393A 100%);
   border-radius: 50px;  
-}
-
-#footer-user .buttons div.badge.button {
-  box-shadow: 0px -16px 23px -18px rgb(255, 0, 0);
-  top: 0px;
-  left: 1px;
 }
 
 /* footer-user .buttons div.store.button:hover */
@@ -910,12 +898,6 @@ position: relative;
   border-radius: 50px;  
 }
 
-#footer-user .buttons div.store.button {
-  box-shadow: 0px -16px 23px -18px rgb(255, 0, 0);
-  top: 0px;
-  left: 1px;
-}
-
 /* footer-user .buttons div.profile.button:hover */
 
 #footer-user .buttons div.profile.button:hover { 
@@ -923,23 +905,11 @@ position: relative;
   border-radius: 50px;  
 }
 
-#footer-user .buttons div.profile.button {
-  box-shadow: 0px -16px 23px -18px rgb(255, 0, 0);
-  top: 0px;
-  left: 1px;
-}
-
 /* footer-user .buttons div.settings.button:hover */
 
 #footer-user .buttons div.settings.button:hover { 
   background: linear-gradient(to bottom,#FF0000 0,rgba(215, 41, 41, 0.33) 56%,#000 73%,#39393A 100%);
   border-radius: 50px;  
-}
-
-#footer-user .buttons div.settings.button {
-  box-shadow: 0px -16px 23px -18px rgb(255, 0, 0);
-  top: 0px;
-  left: 1px;
 }
 
  /* footer-user .info */
@@ -2667,7 +2637,10 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
 }
 
 #dj-button.is-leave, #dj-button.is-quit {
-    border-bottom: 1px solid #fb7302;
-    box-shadow: 0px 7px 14px -6px #fb7302;
+    border-bottom: 1px solid #FCBE02;
+    box-shadow: 0px 7px 14px -6px #FCBE02;
 }
 
+#footer-user .buttons {
+  box-shadow: 0px -16px 23px -18px rgb(255, 1, 5);
+}
