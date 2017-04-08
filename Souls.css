@@ -2197,18 +2197,6 @@ a:-webkit-any-link {
     box-shadow: inset 0 0 0 1px #D72929 !important;
 }
 
-/* footer */
-
-#footer {
-  background: linear-gradient(to bottom, #202020 0px, #202020 100%) !important;
-} 
-
-/* app-header */
-
-.app-header {
-  background: linear-gradient(to bottom, #202020 0px, #202020 100%) !important;
-}
-
 /* search-bar, #filter-bar */
 
 #search-bar, #filter-bar {
