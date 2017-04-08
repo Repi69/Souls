@@ -1,1 +1,38 @@
+/*
+Author:   Repi69
+Created:  26.03.2017
+For:      Black souls Cz-Sk :) (https://plug.dj/cz-sk-black-souls)
+Theme:    Special
+Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
+*/
 
+#room-host, #now-playing-dj {
+    color: #808691 !important;
+}
+
+#room-bar *, #now-playing-bar * {
+    font-weight: lighter !important;
+}
+
+#room-bar span, #now-playing-dj span, #now-playing-media span {
+    font-size: 20px !important;
+}
+
+#room-bar:hover > #room-name, #room-bar > #room-host, #now-playing-bar > #now-playing-dj, #now-playing-bar:hover > #now-playing-media {
+    opacity: 0 !important;
+    transition: opacity 0.25s !important;
+}
+
+#room-bar > #room-name, #room-bar:hover > #room-host, #now-playing-bar:hover > #now-playing-dj, #now-playing-bar > #now-playing-media {
+    opacity: 1 !important;
+    transition: opacity 0.25s !important;
+    transition-delay: 0.25s !important;
+}
+
+#room-bar > #room-name, #now-playing-bar > #now-playing-media {
+    margin-top: 7px !important;
+}
+
+#room-bar > #room-host, #now-playing-bar > #now-playing-dj {
+    margin-top: -15px !important;
+}
