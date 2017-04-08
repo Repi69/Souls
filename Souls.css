@@ -881,42 +881,36 @@ position: relative;
 
 #footer-user .buttons div.inventory.button:hover { 
   background: linear-gradient(to bottom,#FF0000 0,rgba(215, 41, 41, 0.33) 56%,#000 73%,#39393A 100%); 
-  border-radius: 50px;
 }
 
 /* footer-user .buttons div.badge.button:hover */
 
 #footer-user .buttons div.badge.button:hover { 
-  background: linear-gradient(to bottom,#B21010 0,rgba(178, 0, 0, 0.33) 56%,#000 73%,#39393A 100%);
-  border-radius: 50px;  
+  background: linear-gradient(to bottom,#B21010 0,rgba(178, 0, 0, 0.33) 56%,#000 73%,#39393A 100%);  
 }
 
 /* footer-user .buttons div.store.button:hover */
 
 #footer-user .buttons div.store.button:hover { 
-  background: linear-gradient(to bottom,#FF0000 0,rgba(215, 41, 41, 0.33) 56%,#000 73%,#39393A 100%);
-  border-radius: 50px;  
+  background: linear-gradient(to bottom,#FF0000 0,rgba(215, 41, 41, 0.33) 56%,#000 73%,#39393A 100%); 
 }
 
 /* footer-user .buttons div.profile.button:hover */
 
 #footer-user .buttons div.profile.button:hover { 
-  background: linear-gradient(to bottom,#B21010 0,rgba(178, 0, 0, 0.33) 56%,#000 73%,#39393A 100%);
-  border-radius: 50px;  
+  background: linear-gradient(to bottom,#B21010 0,rgba(178, 0, 0, 0.33) 56%,#000 73%,#39393A 100%); 
 }
 
 /* footer-user .buttons div.settings.button:hover */
 
 #footer-user .buttons div.settings.button:hover { 
-  background: linear-gradient(to bottom,#FF0000 0,rgba(215, 41, 41, 0.33) 56%,#000 73%,#39393A 100%);
-  border-radius: 50px;  
+  background: linear-gradient(to bottom,#FF0000 0,rgba(215, 41, 41, 0.33) 56%,#000 73%,#39393A 100%); 
 }
 
  /* footer-user .info */
 
 #footer-user .info {
   background: linear-gradient(to top,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 100%);
-  border-radius: 50px;
 }
 
 /* chat .emote */
@@ -949,7 +943,6 @@ position: relative;
 .media-list .row.now-playing, #playlist-button, .media-list .selected .actions, .media-list .row.selected, .media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  
   background: linear-gradient(to bottom, #B20000 0px, #FF0000 100%) !important; 
   box-shadow: 0 0 10px rgba(215, 41, 41, 1) !important;
-  border-radius: 50px;
 } 
 
 /* media-list.history .row.selected, media-list.history .selected .actions */
