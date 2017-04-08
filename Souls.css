@@ -2594,3 +2594,62 @@ background: #000;
 -moz-box-shadow: none;
 box-shadow: inset 0 -5px 10px #FF0000  !important;
 }
+
+#footer-user .buttons {
+    box-shadow: 0px -16px 23px -18px rgb(255, 0, 0);
+    top: 0px;
+    left: 1px;
+}
+
+#footer-user .buttons .button, #footer {
+    background: #D72929 !important;
+}
+
+#footer-user .buttons .button {
+    box-shadow: 0px 11px 12px -11px rgb(255, 0, 0) inset;
+    -moz-box-shadow: 0px 11px 12px -11px rgb(255, 0, 0) inset;
+    -webkit-box-shadow: 0px 11px 15px -11px rgb(255, 0, 0) inset;
+    border-radius: 2px 2px 0px 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255, 0, 0) transparent transparent!important;
+    width: calc(20% - 2px);
+    transition: box-shadow .2s ease, border-color .2s ease;
+}
+
+#footer-user .buttons .button:hover {
+    border-color:rgb(255, 0, 0) transparent transparent!important;
+    box-shadow: 0px 11px 19px -11px rgb(255, 0, 0) inset!important;
+    -moz-box-shadow: 0px 11px 19px -11px rgb(255, 0, 0) inset!important;
+    -webkit-box-shadow: 0px 11px 19px -11px rgb(255, 0, 0) inset!important;
+}
+
+#footer .bar-button .section:last-child span {
+    color: #D72929;
+    text-shadow: 1px 1px 12px #1f5435, -1px -1px 12px #B21010;
+}
+
+#playlist-button {
+    border-right: 1px solid #FF0000;
+    background: linear-gradient(to bottom,#D72929 0,#B21010 100%);
+    box-shadow: -11px 11px 12px -11px #B20000 inset;
+    width: 52px;
+}
+
+#playlist-meta .bar-button, #search {
+    box-shadow: rgb(255, 0, 0) 11px 11px 12px -11px inset;
+}
+
+#playlist-meta .bar-button {
+    width: calc(100% - 53px)!important;
+}
+
+#playlist-meta {
+    border-top: 1px solid rgb255, 0, 0);
+    box-shadow: rgb(255, 0, 0) 0px -15px 24px -17px;
+}
+
+#dj-button.is-leave, #dj-button.is-quit {
+    border-bottom: 1px solid #fb7302;
+    box-shadow: 0px 7px 14px -6px #fb7302;
+}
