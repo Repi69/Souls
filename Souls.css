@@ -2605,3 +2605,12 @@ background: #000;
 -moz-box-shadow: none;
 box-shadow: inset 0 -5px 10px #FF0000  !important;
 }
+
+.userlj {
+  background: url('https://cdn.plug.dj/_/static/images/icons.90cd6b56-be04-4da4-80be-d60a977370f0.png') 314px -349px;
+  position: absolute; width: 15px; height: 15px; top: 7px;  left: 7px; 
+}
+
+.icon { 
+  background-image: url('http://i.imgur.com/JWGJyeD.png');
+}
