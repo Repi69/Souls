@@ -2649,6 +2649,16 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
     text-shadow: 1px 1px 8px #D72929, -1px -1px 8px #D72929;
 }
 
+#your-active-playlist span {
+    color: #FF0000;
+    text-shadow: 1px 1px 8px #D72929, -1px -1px 8px #D72929;
+}
+
+#footer .bar-button .section:last-child span {
+    color: #FF0000;
+    text-shadow: 1px 1px 8px #D72929, -1px -1px 8px #D72929;
+}
+
 #room-name {
   overflow: visible;
 }
