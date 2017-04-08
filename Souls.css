@@ -2629,6 +2629,11 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
   transition: box-shadow .2s ease, border-color .2s ease;
 }
 
+#room-name .bar-value {
+    color: #FF0000;
+    text-shadow: 1px 1px 8px #D72929, -1px -1px 8px #D72929;
+}
+
 #room-host .username {
     color: #FF0000;
     text-shadow: 1px 1px 8px #D72929, -1px -1px 8px #D72929;
@@ -2657,33 +2662,6 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
 #footer .bar-button .section:last-child span {
     color: #FF0000;
     text-shadow: 1px 1px 8px #D72929, -1px -1px 8px #D72929;
-}
-
-#room-name {
-  overflow: visible;
-}
-
-#room-name  span:hover {
-  text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #F70000 , 0 0 70px #F70000 , 0 0 80px #F70000 , 0 0 100px #F70000;
-}
-
-#room-name .bar-value  {
-  display: inline-block;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  border: none;
-  font: normal 18px/normal "Warnes", Helvetica, sans-serif;
-  color: rgba(255,255,255,1);
-  text-decoration: normal;
-  -o-text-overflow: clip;
-  text-overflow: clip;
-  white-space: pre;
-  text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #F70000  , 0 0 70px #F70000  , 0 0 80px #F70000  , 0 0 100px #F70000 ;
-  -webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
-  -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
-  -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
-  transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
 }
 
 .communities .grid .cell {
