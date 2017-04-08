@@ -1,0 +1,45 @@
+{
+    "room": "Black Souls Cz-Sk",
+    "author": "Repi69",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#27D9D9",
+        "ambassador": "#80F20E",
+        "host": "#FF0000",
+        "cohost": "#FF0000",
+        "manager": "#D72929",
+        "bouncer": "#B21010",
+        "rdj": "#B20000",
+        "subscriber": "#E1E12B",
+        "silversubscriber": "#A0A0A0",
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "http://i.imgur.com/15VhC35.jpg",
+        "playback": "http://i.imgur.com/FsFUGtK.png",
+        "admin": "http://i.imgur.com/U3ZO6LF.png",
+        "ambassador": "http://i.imgur.com/FU4usVO.png",
+        "host": "http://i.imgur.com/WCWtHoi.png",
+        "cohost": "http://i.imgur.com/WCWtHoi.png",
+        "manager": "http://i.imgur.com/UWSo9i0.png",
+        "bouncer": "http://i.imgur.com/7ZWhanC.png",
+        "rdj": "http://i.imgur.com/jG6u0pf.png",
+        "subscriber": "http://i.imgur.com/E4PPb41.png",
+        "silversubscriber": "http://i.imgur.com/VxQNwNG.png"
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
