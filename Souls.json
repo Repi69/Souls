@@ -2,7 +2,7 @@
     "room": "Black Souls Cz-Sk",
     "author": "Repi69",
     "icon": null,
-    "css": "https://github.com/Repi69/Souls/blob/master/Souls.css",
+    "css": "https://rawgit.com/Repi69/Souls/master/Souls.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
