@@ -1546,19 +1546,19 @@ ulh2 {
 /* user-inventory .avatars .grid .cell:hover>.top, user-avatars .my-avatars .grid .cell.selected .top */
 
 #user-inventory .avatars .grid .cell:hover>.top, #user-avatars .my-avatars .grid .cell.selected .top {
-  background: linear-gradient(to bottom,#176FA9 0,rgba(178, 16, 16, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; 
+  background: linear-gradient(to bottom,#FF0000 0,rgba(178, 16, 16, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; 
 }
 
 /* user-menu .avatar */
 
 #user-menu .avatar { 
-  background: linear-gradient(to bottom,#29D0FB 0,rgba(178, 0, 0, 0.33) 56%,#000 73%,#39393A 100%); 
+  background: linear-gradient(to bottom,#FF0000 0,rgba(178, 0, 0, 0.33) 56%,#000 73%,#39393A 100%); 
 }
 
 /* user-content .grid .cell:hover>.top, user-inventory .avatars .grid .cell.selected .top */
 
 .user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { 
-  background: linear-gradient(to bottom,#176FA9 0,rgba(255, 0, 0, 0.33) 56%,#000 73%,#39393A 100%); 
+  background: linear-gradient(to bottom,#D72929 0,rgba(255, 0, 0, 0.33) 56%,#000 73%,#39393A 100%); 
 }
 
 /* user-menu .icon .icon-locked-grey */
