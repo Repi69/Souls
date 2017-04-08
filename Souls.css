@@ -2207,7 +2207,6 @@ a:-webkit-any-link {
 /* footer */
 
 #footer {
-  border-radius: 50px;
   background: linear-gradient(to bottom, #202020 0px, #202020 100%) !important;
 } 
 
