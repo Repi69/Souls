@@ -2248,10 +2248,6 @@ a:-webkit-any-link {
     overflow-y: hidden;
 }
 
-#room-settings .general-settings .value {
-    max-width: 400px;
-}
-
 #room-settings .general-settings a:hover, 
 #room-settings .general-settings a:visited:hover,
 .user-content.profile .meta .link .url a, 
