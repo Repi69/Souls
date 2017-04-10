@@ -943,6 +943,7 @@ position: relative;
 .media-list .row.now-playing, #playlist-button, .media-list .selected .actions, .media-list .row.selected, .media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  
   background: linear-gradient(to bottom, #B20000 0px, #FF0000 100%) !important; 
   box-shadow: 0 0 10px rgba(215, 41, 41, 1) !important;
+  border-radius: 50px;
 } 
 
 /* media-list.history .row.selected, media-list.history .selected .actions */
@@ -950,6 +951,7 @@ position: relative;
 .media-list.history .row.selected, .media-list.history .selected .actions {
   background: #B21010 !important; 
   box-shadow: 0 0 10px #B20000 !important; 
+  border-radius: 50px;
 }
 
 /* playlist-create:hover */
