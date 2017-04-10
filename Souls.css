@@ -1376,7 +1376,7 @@ position: relative;
 /* footer-user .info .bar .progress */
 
 #footer-user .info .bar .progress {
-  border-radius: 10px 0px 10px 0px !important;
+  border-radius: 20px;
   background: #B21010;
   box-shadow: 0 0 15px #B20000 !important;
 }
@@ -1385,7 +1385,7 @@ position: relative;
 /* experience .xp .bar .progress */
 
 .experience .xp .bar .progress {
-  border-radius: 10px 0px 10px 0px !important;
+  border-radius: 20px;
   background: #FF0000;
   box-shadow: 0 0 10px 5px #D72929;
 }
@@ -1393,13 +1393,13 @@ position: relative;
 /* experience .xp .bar, #footer-user .meta div.bar */
 
 .experience .xp .bar, #footer-user .meta div.bar {
-  border-radius: 10px 0px 10px 0px !important;
+  border-radius: 20px;
 }
 
 /* footer-user .meta div.bar */
 
 #footer-user .meta div.bar { 
-  border-radius: 10px 0px 10px 0px !important;
+  border-radius: 20px;
 }
 
 /* room-info */
