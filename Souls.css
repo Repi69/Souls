@@ -1422,6 +1422,22 @@ position: relative;
     margin-top: 0px;
 }
 
+.experience .levels {
+    margin-top: 20px;
+}
+
+.experience .xp .next-level {
+    color: #FFFFFF;
+}
+
+.icon-level-avatar {
+    z-index: 1;
+}
+
+.icon-level-ep {
+    z-index: 1;
+}
+
 
 /* footer-user .meta div.bar */
 
@@ -2438,6 +2454,12 @@ a:-webkit-any-link {
 #user-rollover.can-gift .action.gift:hover {
 	box-shadow: inset 0 0 30px #E1E12B !important;
 	background:rgba(0,0,0,0.8) !important
+}
+
+.subscribe-button:hover {
+  box-shadow: inset 0 0 30px #E1E12B !important;
+  background:rgba(0,0,0,0.8) !important;
+  border-radius: 20px;
 }
     
 /* chat-button:hover, #users-button:hover, #waitlist-button:hover, #friends-button:hover, #rcs-appright-button:hover */
