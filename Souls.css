@@ -2060,60 +2060,6 @@ a:-webkit-any-link {
   top: 3px;
 }
 
-/* chat .mention.is-admin */
-
-#chat .mention.is-admin {
-  background: linear-gradient(135deg,#27D9D9 0,#000000 13%,#0a0a0a 100%) !important;
-}
-
-/* chat .mention.is-ambassador */
-
-#chat .mention.is-host {
-  background: linear-gradient(135deg,#80F20E 0,#000000 13%,#0a0a0a 100%) !important;
-}
-
-/* chat .mention.is-host */
-
-#chat .mention.is-host {
-  background: linear-gradient(135deg,#FF0000 0,#000000 13%,#0a0a0a 100%) !important;
-}
-
-/* chat .mention.is-cohost */
-
-#chat .mention.is-cohost {
-  background: linear-gradient(135deg,#FF0000 0,#000000 13%,#0a0a0a 100%) !important;
-}
-
-/* chat .mention.is-manager */
-
-#chat .mention.is-manager {
-  background: linear-gradient(135deg,#D72929 0,#000000 13%,#0a0a0a 100%) !important;
-}
-
-/* chat .mention.is-bouncer */
-
-#chat .mention.is-bouncer {
-  background: linear-gradient(135deg,#B21010 0,#000000 13%,#0a0a0a 100%) !important;
-}
-
-/* chat .mention.is-dj */
-
-#chat .mention.is-dj {
-  background: linear-gradient(135deg,#B20000 0,#000000 13%,#0a0a0a 100%) !important;
-}
-
-/* chat .mention.is-subscriber */
-
-#chat .mention.is-subscriber {
-  background: linear-gradient(135deg,#E1E12B 0,#000000 13%,#0a0a0a 100%) !important;
-}
-
-/* chat .mention.is-subscriber.silver */
-
-#chat .mention.is-subscriber.silver {
-  background: linear-gradient(135deg,#A0A0A0 0,#000000 13%,#0a0a0a 100%) !important;
-}
-
 /* is-admin .name */
 
 .is-admin .name { 
