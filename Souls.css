@@ -1396,6 +1396,33 @@ position: relative;
   border-radius: 20px;
 }
 
+.experience .levels .level.mystery .label span {
+    z-index: 1;
+    color: #FFFFFF;
+}
+
+.experience .levels .level {
+    background: #000000;
+    border: 2px solid #FF0000;
+    border-radius: 10px 10px 10px 10px;
+    height: 86px;
+    margin-top: 0px;
+}
+
+.experience .levels .level .label i.icon-sunburst {
+    background: #000000;
+    width: 90px;
+    border: 2px solid #FF0000;
+    border-radius: 10px 10px 0px 0px;
+    left: -2px;
+    margin-top: -2px;
+}
+
+.experience .levels .level .value {
+    margin-top: 0px;
+}
+
+
 /* footer-user .meta div.bar */
 
 #footer-user .meta div.bar { 
