@@ -192,11 +192,11 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
 }
 
 .app-right .friends .list .row.clickable:hover {
-  background:rgba(0, 255, 0,0.2);
+  background:rgba(0, 255, 0,0.5);
 }
 
 .app-right .friends .list .row.is-offline:hover {
-  background:rgba(255, 0, 0,0.2);
+  background:rgba(255, 0, 0,0.5);
 }
 
 .app-right .friends .list .row .room {
@@ -220,11 +220,11 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
 }
 
 #user-friends .list .row .buttons button.positive:hover {
-  box-shadow: inset 0 0 30px #00FF00 !important;
+  background: #00FF00;
 }
 
 #user-friends .list .row .buttons button.negative:hover {
-  box-shadow: inset 0 0 30px #FF0000 !important;
+  background: #FF0000;
 }
 
 /* app-right */
