@@ -49,6 +49,9 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
     border-radius: 50px 0 0 50px;
     border-left: 1px solid rgb(255, 255, 255);
 }
+#woot-rs .title, #grab-rs .title, #meh-rs .title {
+	border-radius: 10px 10px 0 0;
+}
 
 #meh {
     border-radius: 0 50px 50px 0;
