@@ -2702,7 +2702,7 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
 
 #user-rollover.id-5006795 .username:hover,
 #chat [data-cid^="5006795-"] span.un.clickable:hover {
-animation:rainbow 1s infinite;
+animation:rainbow 15s infinite;
 }
 @keyframes rainbow {
 0% {color: #ff0000;}
