@@ -105,6 +105,17 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
     100% {background-color: #ff0000;}
 }
 
+#grab-rs-list::-webkit-scrollbar, #meh-rs-list::-webkit-scrollbar, #woot-rs-list::-webkit-scrollbar {
+    width: 7px!important;
+    box-shadow: inset -1px 0 7px hsla(0, 0%, 0%, .5);
+}
+
+#grab-rs-list::-webkit-scrollbar-thumb, #meh-rs-list::-webkit-scrollbar-thumb, #woot-rs-list::-webkit-scrollbar-thumb {
+    background: rgba(4, 13, 36, 1);
+    box-shadow: inset 1px 0 7px hsla(0, 0%, 100%, .2);
+    border-radius: 5px;
+}
+
 /* DJ join|leave|locked Buttons */
 
 #dj-button.is-wait, #dj-button.is-leave, #dj-button.is-locked, #dj-button.is-quit {
