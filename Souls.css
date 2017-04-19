@@ -2691,18 +2691,14 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
 }
 
 #chat .welcome {
-    color: #FF0000;
-    background: rgba(162, 0, 3, 0.62);
-    border-radius: 12px;
-    padding-left: 0px;
-    -webkit-box-shadow: inset 0 0 30px rgba(255, 0, 0, 0.50);
-    -moz-box-shadow: inset 0 0 30px rgba(255, 0, 0, 0.50);
-    box-shadow: inset 0 0 30px rgba(255, 0, 0, 0.50);
-}
-
-#user-rollover.id-5006795 .username:hover,
-#chat [data-cid^="5006795-"] span.un.clickable:hover {
-animation:rainbow 5s infinite;
+    animation:rainbow 5s infinite;
+    background-image: -webkit-gradient( linear, left top, right top, color-stop(0.60, #f22), color-stop(0.60, #f2f), color-stop(0.60, #22f),
+    color-stop(0.60, #2ff), color-stop(0.60, #2f2), color-stop(0.60, #2f2), color-stop(0.60, #ff2), color-stop(0.60, #f22));
+    background-image: gradient( linear, left top, right top, color-stop(0.60, #f22), color-stop0.60, #f2f), color-stop(0.60, #22f), 
+    color-stop(0.60, #2ff), color-stop(0.60, #2f2), color-stop(0.60, #2f2), color-stop(0.60, #ff2), color-stop(0.60, #f22));
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
 }
 @keyframes rainbow {
 0% {color: #ff0000;}
@@ -2717,7 +2713,25 @@ animation:rainbow 5s infinite;
 90% {color: #8000ff;}
 100% {color: #ff0080;}
 }
-/*  Rainbow Chat Name For Kaos  */
+
+#user-rollover.id-5006795 .username:hover,
+#chat [data-cid^="5006795-"] span.un.clickable:hover {
+animation:rainbow 5s infinite;
+}
+
+@keyframes rainbow {
+0% {color: #ff0000;}
+10% {color: #ff8000;}
+20% {color: #ffff00;}
+30% {color: #80ff00;}
+40% {color: #00ff00;}
+50% {color: #00ff80;}
+60% {color: #00ffff;}
+70% {color: #0080ff;}
+80% {color: #0000ff;}
+90% {color: #8000ff;}
+100% {color: #ff0080;}
+}
 
 #user-rollover.id-5006795 .username,
 #chat [data-cid^="5006795-"] span.un.clickable{
