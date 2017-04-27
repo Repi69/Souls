@@ -40,6 +40,7 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
 }
 
 /* Vote Buttons */
+
 #woot i.icon {
     background-image:    url("http://i.imgur.com/R4ZveSh.png");
     background-size:     cover;
@@ -67,7 +68,6 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
 }
 
 #woot {
-    border-radius: 50px 0 0 50px;
     border-left: 1px solid rgb(255, 255, 255);
 }
 #woot-rs .title, #grab-rs .title, #meh-rs .title {
@@ -75,7 +75,6 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
 }
 
 #meh {
-    border-radius: 0 50px 50px 0;
     border-right: 1px solid rgb(255, 255, 255);
 }
 
@@ -143,7 +142,6 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
 /*--[dj-button]--*/
 
 #dj-button {
-	border-radius: 50px;
 	background: linear-gradient(hsla(210,10%,50%,.3), hsla(210,10%,40%,.3));
 	box-shadow: 0 0 10px #000;
 }
@@ -153,7 +151,6 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
 }
 
 #dj-button .left {
-	border-radius: 50px 0 0 50px;
 	background: linear-gradient(135deg, hsla(210,80%,60%,.6), hsla(210,80%,50%,.6));
 	box-shadow: 0 0 10px #000;
 }
