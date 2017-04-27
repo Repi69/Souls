@@ -40,6 +40,27 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
 }
 
 /* Vote Buttons */
+#woot i.icon {
+    background-image:    url("http://i.imgur.com/R4ZveSh.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
+#grab i.icon {
+    background-image:    url("http://i.imgur.com/wvNYmvu.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
+#meh i.icon {
+    background-image:    url("http://i.imgur.com/IlLVaQW.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
 
 #woot .bottom, #grab .bottom, #meh .bottom {
     background: transparent !important;
