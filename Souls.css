@@ -62,14 +62,11 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
     background-position: center center;
 }
 
-
 #woot .bottom, #grab .bottom, #meh .bottom {
     background: transparent !important;
 }
 
 #woot {
-    border-bottom: 1px solid #008000;
-    box-shadow: 0px 7px 14px -6px #008000;
     border-left: 1px solid rgb(255, 255, 255);
 }
 
@@ -77,14 +74,7 @@ Note:     !!! DO NOT USE OR MODIFY THIS CSS WITHOUT CREATOR'S PERMISSION !!!
 	border-radius: 10px 10px 0 0;
 }
 
-#grab {
-    border-bottom: 1px solid #3B0066;
-    box-shadow: 0px 7px 14px -6px #3B0066;
-}
-
 #meh {
-    border-bottom: 1px solid #660000;
-    box-shadow: 0px 7px 14px -6px #660000;
     border-right: 1px solid rgb(255, 255, 255);
 }
 
