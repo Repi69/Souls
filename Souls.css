@@ -1306,6 +1306,10 @@ position: relative;
   background: #B21010 !important;
 }
 
+#user-menu .item:hover, #room-settings-menu .item:hover {
+  background: #B21010 !important;
+}
+
 /* user-content.profile .notifications .row .timestamp */
 
 .user-content.profile .notifications .row .timestamp {
@@ -2459,6 +2463,12 @@ a:-webkit-any-link {
 }
 
 .subscribe-button:hover {
+  box-shadow: inset 0 0 30px #E1E12B !important;
+  background:rgba(0,0,0,0.8) !important;
+  border-radius: 20px;
+}
+
+.subscribe-button {
   box-shadow: inset 0 0 30px #E1E12B !important;
   background:rgba(0,0,0,0.8) !important;
   border-radius: 20px;
