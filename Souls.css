@@ -2910,3 +2910,24 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
     -o-animation: rainbow 15s infinite!important;
     animation: rainbow 15s infinite!important;
 }
+
+/* badges */
+
+/* L𝖚𝖈𝖎𝖆𝖓 */
+
+.id-5006795 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/7fjOFxd.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-5006795 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/7fjOFxd.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
