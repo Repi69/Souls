@@ -900,6 +900,12 @@ position: relative;
   border-radius: 20px;
 } 
 
+#user-rollover .info { 
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.75) 0, rgba(0, 0, 0, 0.75) 100%);
+  background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 100%); 
+  border-radius: 20px;
+}
+
 /* #footer-user .buttons div.inventory.button:hover */
 
 #footer-user .buttons div.inventory.button:hover { 
@@ -2915,7 +2921,7 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
 
 /* L𝖚𝖈𝖎𝖆𝖓 */
 
-.id-5006795 > .badge-box > i.bdg > .bdg
+.id-5006795 > .badge-box > i.bdg >
 {
     background-image:    url("http://i.imgur.com/UBg2LIq.png");
     background-size:     cover;
@@ -2923,7 +2929,7 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
     background-position: center center;
 }
 
-#user-rollover.id-5006795 .badge-box > i.bdg
+#user-rollover.id-5006795 .badge-box > i.bdg > .bdg
 {
     border-radius:       6px;
     background-image:    url("http://i.imgur.com/UBg2LIq.png");
