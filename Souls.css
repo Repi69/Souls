@@ -2771,7 +2771,7 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
 
 /* L𝖚𝖈𝖎𝖆𝖓 */
 
-.id-5006795 > .badge-box > i.bdg >
+.id-5006795 > .badge-box > i.bdg
 {
     background-image:    url("http://i.imgur.com/UBg2LIq.png");
     background-size:     cover;
@@ -2779,7 +2779,7 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
     background-position: center center;
 }
 
-#user-rollover.id-5006795 .badge-box > i.bdg >
+#user-rollover.id-5006795 .badge-box > i.bdg
 {
     border-radius:       6px;
     background-image:    url("http://i.imgur.com/UBg2LIq.png");
@@ -2788,7 +2788,7 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
     background-position: center center;
 }
 
-#footer-user .buttons .button.id-5006795 .badge-box > i.bdg > .bdg > .bdg.g >
+#footer-user .buttons .button.id-5006795 .badge-box > i.bdg > .bdg > .bdg.g
 {
     border-radius:       6px;
     background-image:    url("http://i.imgur.com/UBg2LIq.png");
