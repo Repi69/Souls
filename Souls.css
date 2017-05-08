@@ -2099,11 +2099,11 @@ a:-webkit-any-link {
 }
 
 #footer-user .buttons .button .no-badge {
-   position: absolute;
+    position: absolute;
     top: 17px;
     left: 25px;
-    width: 15px;
-    height: 15px;
+    width: 30px;
+    height: 30px;
     border-radius: 0;
     background: url("http://i.imgur.com/eiZTks7.png");
     
