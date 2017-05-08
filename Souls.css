@@ -2788,7 +2788,7 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
     background-position: center center;
 }
 
-#footer-user [data-cid^="5006795-"] .bdg > .bdg.g
+#footer-user .buttons .button [data-cid^="5006795-"] .bdg > .bdg.g
 {
     border-radius:       6px;
     background-image:    url("http://i.imgur.com/UBg2LIq.png");
