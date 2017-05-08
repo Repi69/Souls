@@ -2785,8 +2785,9 @@ box-shadow: inset 0 -5px 10px #FF0000  !important;
     background-position: center center;
 }
 
-#footer-user .buttons .button [data-cid^="5006795-"] .bdg {
-   position: absolute;
+#footer-user .buttons .button.id-5006795 .bdg > .bdg.g
+{
+    position: absolute;
     top: 17px;
     left: 25px;
     width: 30px;
